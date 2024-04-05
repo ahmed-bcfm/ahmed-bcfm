@@ -7,6 +7,5 @@
     "city": "Anytown",
     "country": "USA"
   },
-  "interests": ["programming", "reading", "hiking"]
+  "interests": ["programming", "readings", "hiking"]
 }
-
